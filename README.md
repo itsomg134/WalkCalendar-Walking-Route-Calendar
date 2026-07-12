@@ -92,7 +92,7 @@ All styles are contained within the `<style>` tag. Key variables to customize:
 - Background colors: `#f5f7fb`, `#ffffff`
 - Font family: 'Inter' (can be changed in Google Fonts link)
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop**: Full layout with side-by-side panels
 - **Tablet (700px)**: Stacked panels, smaller calendar cells
