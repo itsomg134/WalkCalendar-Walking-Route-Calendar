@@ -7,13 +7,13 @@ A clean, interactive single-page application for planning and visualizing your w
 
 ## Features
 
-- **📅 Interactive Calendar View** - Browse months and see all your planned walking routes at a glance
-- **📍 Route Details Panel** - View comprehensive information about each route including title, distance, duration, and description
-- **🗺️ Location Preview** - Visual map placeholder that dynamically updates with route information
-- **➕ Add New Routes** - Easily create new walking routes for any date with a simple form prompt
-- **🎯 Today's View** - Jump directly to today's date with one click
-- **📱 Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- **🎨 Clean UI** - Modern, intuitive interface with visual indicators for route availability
+- ** Interactive Calendar View** - Browse months and see all your planned walking routes at a glance
+- ** Route Details Panel** - View comprehensive information about each route including title, distance, duration, and description
+- ** Location Preview** - Visual map placeholder that dynamically updates with route information
+- ** Add New Routes** - Easily create new walking routes for any date with a simple form prompt
+- ** Today's View** - Jump directly to today's date with one click
+- ** Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
+- ** Clean UI** - Modern, intuitive interface with visual indicators for route availability
 
 ## 🚀 Live Demo
 
