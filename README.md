@@ -1,4 +1,4 @@
-# 🚶 WalkCalendar - Walking Route Calendar
+# WalkCalendar - Walking Route Calendar
 
 A clean, interactive single-page application for planning and visualizing your walking routes on a calendar. Perfect for fitness enthusiasts, urban explorers, or anyone who wants to track their daily walks with location-based route details.
 
