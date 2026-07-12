@@ -109,7 +109,7 @@ All styles are contained within the `<style>` tag. Key variables to customize:
 - [ ] Share routes with others
 - [ ] Weather integration for route planning
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
