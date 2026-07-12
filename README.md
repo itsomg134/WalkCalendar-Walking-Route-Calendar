@@ -41,7 +41,7 @@ start index.html  # Windows
 
 That's it! No build tools, dependencies, or server required.
 
-## 🎯 Usage
+## Usage
 
 ### Navigating the Calendar
 - Use the **Prev/Next** buttons to switch months
