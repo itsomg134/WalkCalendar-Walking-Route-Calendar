@@ -98,7 +98,7 @@ All styles are contained within the `<style>` tag. Key variables to customize:
 - **Tablet (700px)**: Stacked panels, smaller calendar cells
 - **Mobile (480px)**: Compact header, reduced font sizes, touch-friendly targets
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Persistent storage with localStorage
 - [ ] Export/Import routes as JSON
