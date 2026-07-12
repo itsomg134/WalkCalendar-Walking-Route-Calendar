@@ -62,7 +62,7 @@ walkcalendar/
 └── assets/             # (Optional) Images and other assets
 ```
 
-## 🔧 Customization
+## Customization
 
 ### Modifying Sample Routes
 The sample routes are stored in the `seedSampleRoutes()` function in the JavaScript section. To customize:
