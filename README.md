@@ -53,7 +53,7 @@ A clean, interactive single-page application for planning and visualizing your w
 ### Sample Data
 The application comes pre-populated with sample routes for March 2026 to demonstrate functionality. You can add, modify, or delete these as needed.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 walkcalendar/
