@@ -1,7 +1,3 @@
-Here's a complete GitHub README file for your Walking Route Calendar application. You can copy and paste this directly into your repository's `README.md` file.
-
----
-
 # 🚶 WalkCalendar - Walking Route Calendar
 
 A clean, interactive single-page application for planning and visualizing your walking routes on a calendar. Perfect for fitness enthusiasts, urban explorers, or anyone who wants to track their daily walks with location-based route details.
