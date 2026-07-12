@@ -15,7 +15,7 @@ A clean, interactive single-page application for planning and visualizing your w
 - ** Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - ** Clean UI** - Modern, intuitive interface with visual indicators for route availability
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **HTML5** - Semantic markup structure
 - **CSS3** - Custom styling with Flexbox and CSS Grid
@@ -23,7 +23,7 @@ A clean, interactive single-page application for planning and visualizing your w
 - **Font Awesome 6** - Icon library for visual enhancements
 - **Google Fonts (Inter)** - Clean, modern typography
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
 ```bash
