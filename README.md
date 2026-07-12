@@ -131,7 +131,7 @@ If you find a bug, please open an issue with:
 - Screenshots if applicable
 - Browser and version information
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
