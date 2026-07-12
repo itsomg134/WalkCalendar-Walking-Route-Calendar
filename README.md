@@ -5,7 +5,7 @@ A clean, interactive single-page application for planning and visualizing your w
 ![WalkCalendar Screenshot](https://via.placeholder.com/800x400?text=WalkCalendar+Demo)  
 *(Replace with an actual screenshot of your app)*
 
-## ✨ Features
+## Features
 
 - **📅 Interactive Calendar View** - Browse months and see all your planned walking routes at a glance
 - **📍 Route Details Panel** - View comprehensive information about each route including title, distance, duration, and description
