@@ -122,7 +122,7 @@ Contributions are welcome! Here's how you can help:
 
 Please ensure your code follows the existing style and includes appropriate comments.
 
-## 🐛 Bug Reports
+## Bug Reports
 
 If you find a bug, please open an issue with:
 - A clear description of the problem
