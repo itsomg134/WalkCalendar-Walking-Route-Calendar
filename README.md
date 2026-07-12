@@ -23,24 +23,6 @@ A clean, interactive single-page application for planning and visualizing your w
 - **Font Awesome 6** - Icon library for visual enhancements
 - **Google Fonts (Inter)** - Clean, modern typography
 
-## Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/walkcalendar.git
-cd walkcalendar
-```
-
-2. **Open the application**
-```bash
-# Simply open index.html in your browser
-open index.html
-# or
-start index.html  # Windows
-```
-
-That's it! No build tools, dependencies, or server required.
-
 ## Usage
 
 ### Navigating the Calendar
