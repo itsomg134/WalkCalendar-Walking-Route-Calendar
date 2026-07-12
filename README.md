@@ -15,10 +15,6 @@ A clean, interactive single-page application for planning and visualizing your w
 - ** Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - ** Clean UI** - Modern, intuitive interface with visual indicators for route availability
 
-## 🚀 Live Demo
-
-[View Live Demo](#) *(Add your deployment link here)*
-
 ## 🛠️ Technology Stack
 
 - **HTML5** - Semantic markup structure
