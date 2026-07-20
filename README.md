@@ -2,6 +2,7 @@
 
 A clean, interactive single-page application for planning and visualizing your walking routes on a calendar. Perfect for fitness enthusiasts, urban explorers, or anyone who wants to track their daily walks with location-based route details.
 
+<img width="1880" height="1916" alt="image" src="https://github.com/user-attachments/assets/d0d1319c-086d-4948-b35b-887f036acc4b" />
 
 ## Features
 
