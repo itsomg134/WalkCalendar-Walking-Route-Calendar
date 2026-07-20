@@ -137,4 +137,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [Font Awesome](https://fontawesome.com/) for the beautiful icons
-- [Google Fonts](https://fonts.google.com/) for the Inter typeface
